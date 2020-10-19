@@ -9,6 +9,7 @@
       <p>-Travelling</p>
     <h>You can see a fresh photo of me below </h>
     <img src="photo.jpeg" alt="Photo" width="200" height="200">
+ 
  	<h>Contact: </h>
  	<p>Phone: 0784086121</p>
  	<p>Email: cristinaiuliana14@yahoo.com</p>
@@ -16,7 +17,7 @@
  <style>
    body{
       background-color:black;
-      color:#A9A9A9;
+      color:#000000;
    }
  </style>
  
