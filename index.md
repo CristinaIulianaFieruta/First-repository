@@ -15,7 +15,7 @@
     <br/>
  	<h>Contact: </h>
  	<p>Phone: 0784086121</p>
-  <a href="mailto:cristinaiuliana14@yahoo.com">Send mail</a>
+  <a href="mailto:cristinaiuliana14@yahoo.com">Send me an email</a>
  
  <style>
    body{
