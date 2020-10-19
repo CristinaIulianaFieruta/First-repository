@@ -1,5 +1,5 @@
  <body>
-    <h2>Someting about me</h2>
+    <h1 style="font-family:algerian;">Someting about me </h1>
     <p>I'm Cristina Iuliana Fieruta and I am 23 years old. I am curently both working as a software developer and studying for a master's degree in information technology management. </p>
   	<h1 style="font-family:algerian;">My passions are: </h1>
     <ul>
