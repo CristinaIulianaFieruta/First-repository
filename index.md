@@ -9,7 +9,7 @@
       <li>Hairstyling</li>
       <li>Travelling</li>
     </ul>
-    <h1 style="font-family:algerian;">You can see a fresh photo of me below &#128516 </h1>
+    <h1 style="font-family:algerian;">You can see a fresh photo of me below &#128516; </h1>
     <br/>
     <img src="photo.jpeg" alt="Photo" width="200" height="200">
     <br/>
