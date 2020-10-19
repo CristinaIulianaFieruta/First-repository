@@ -39,9 +39,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  <body>
     <h1>Someting about me</h1>
-  ### Markdown
-
-```markdown
     <p>I'm Cristina Iuliana Fieruta and I am 23 years old. I am curently both working as a software developer and studying for a master's degree in information technology management. </p>
-``` 
  </body>
+ 
+ <style>
+   body{
+      background-color:pink;
+      color:#fff;
+      text-align:center;
+   }
+ </style>
+ 
