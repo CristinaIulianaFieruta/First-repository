@@ -8,8 +8,9 @@
       <p>-Hairstyling</p>
       <p>-Travelling</p>
     <h>You can see a fresh photo of me below </h>
+    <br/>
     <img src="photo.jpeg" alt="Photo" width="200" height="200">
- 
+    <br/>
  	<h>Contact: </h>
  	<p>Phone: 0784086121</p>
  	<p>Email: cristinaiuliana14@yahoo.com</p>
